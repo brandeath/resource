@@ -13,7 +13,7 @@
 
 
 #### Mathematica
-  - [QI.m](<https://github.com/rogercolbeck/QI>) by Roger Colbeck. The manual can be found at his personal page (www-users.york.ac.uk/~rc973/QI_package.html).  It has been used for a quantum compiler (see www-users.york.ac.uk/~rc973/UniversalQCompiler.html ).
+  - [QI.m](<https://github.com/rogercolbeck/QI>) by Roger Colbeck. The manual can be found at his [personal page](www-users.york.ac.uk/~rc973/QI_package.html).  It has been used for a [quantum compiler](www-users.york.ac.uk/~rc973/UniversalQCompiler.html ).
 
 
 
